@@ -24,9 +24,11 @@ status-website:
   
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** monitor de actividad y de código abierto para visualizar el estado de página o servicios. Proyectó impulsado completamente por GitHub."
+  introMessage: Esta página muestra en **tiempo real** los estados de diferentes sitios web, esto es proporcionado por GitHub. [**Consigue el tuyo gratis**](https://github.com/upptime/upptime)
   navbar:
+    - title: Home Page
+      href: https://www.101si.com.ar/
     - title: Status
       href: /
     - title: GitHub
