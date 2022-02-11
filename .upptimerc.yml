@@ -7,8 +7,10 @@ sites:
     url: https://www.101si.com.ar/
   - name: ARBA COT
     url: https://cot.arba.gov.ar/TransporteBienes/SeguridadCliente/presentarRemitos.do
-  - name: FTP
-    url: https://nodo.101si.com.ar/
+  - nombre : BackUp 
+    comprobar : "tcp-ping" 
+    URL : 190.210.247.11
+    puerto : 22
   - name: C.P.G.S.M.
     url: http://cpgsm.101si.com.ar:8001
 
