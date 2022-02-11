@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Interrupción parcial**
 
 
 
