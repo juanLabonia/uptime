@@ -13,6 +13,8 @@ sites:
     puerto : 22
   - name: C.P.G.S.M.
     url: http://cpgsm.101si.com.ar:8001
+  - name: Axoft
+    url: https://tiendas.axoft.com/api/Aperture/dummy
 
 assigness:
   - juanLabonia
