@@ -4,17 +4,17 @@ repo: upptime # The name of this repository
 
 sites:
   - name: 101SI
-    url: https://www.101si.com.ar/
+    url: https://www.101si.com.ar/  
   - name: ARBA COT
     url: https://cot.arba.gov.ar/TransporteBienes/SeguridadCliente/presentarRemitos.do
+  - name: Tango
+    url: https://tiendas.axoft.com/api/Aperture/dummy
   - nombre : BackUp 
     comprobar : "tcp-ping" 
     URL : 190.210.247.11
     puerto : 22
   - name: C.P.G.S.M.
     url: http://cpgsm.101si.com.ar:8001
-  - name: Axoft
-    url: https://tiendas.axoft.com/api/Aperture/dummy
 
 assigness:
   - juanLabonia
