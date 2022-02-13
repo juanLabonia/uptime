@@ -9,6 +9,9 @@ sites:
     url: https://cot.arba.gov.ar/TransporteBienes/SeguridadCliente/presentarRemitos.do
   - name: Tango
     url: https://tiendas.axoft.com/api/Aperture/dummy
+    headers:
+      - "accesstoken: $TANGO"
+      - "Content-Type: application/json"
   - name: C.P.G.S.M.
     url: http://cpgsm.101si.com.ar:8001
 
