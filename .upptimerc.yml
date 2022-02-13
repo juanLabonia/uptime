@@ -8,6 +8,7 @@ sites:
   - name: ARBA COT
     url: https://cot.arba.gov.ar/TransporteBienes/SeguridadCliente/presentarRemitos.do
   - name: Tango
+    method: POST
     url: https://tiendas.axoft.com/api/Aperture/dummy
     headers:
       - "accesstoken: $TANGO"
