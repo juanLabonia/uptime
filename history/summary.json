@@ -22,9 +22,9 @@
     "url": "https://ofishop.com/",
     "icon": "https://favicons.githubusercontent.com/ofishop.com",
     "slug": "ofishop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 2438,
     "timeMonth": 2438,
     "timeYear": 2438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   },
   {
     "name": "EDGAR",
     "url": "https://www.edgar.com.ar/",
     "icon": "https://favicons.githubusercontent.com/www.edgar.com.ar",
     "slug": "edgar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 1063,
     "timeMonth": 1063,
     "timeYear": 1063,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   },
   {
     "name": "ARBA COT",
@@ -77,11 +81,11 @@
     "icon": "https://favicons.githubusercontent.com/tiendas.axoft.com",
     "slug": "tango",
     "status": "up",
-    "uptime": "63.77%",
+    "uptime": "71.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "63.77%",
-    "uptimeMonth": "63.77%",
-    "uptimeYear": "63.77%",
+    "uptimeWeek": "71.64%",
+    "uptimeMonth": "71.64%",
+    "uptimeYear": "71.64%",
     "time": 644,
     "timeDay": 558,
     "timeWeek": 644,
