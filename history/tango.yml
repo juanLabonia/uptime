@@ -1,7 +1,7 @@
 url: https://tiendas.axoft.com/api/Aperture/dummy
-status: down
-code: 503
-responseTime: 726
-lastUpdated: 2022-04-03T12:30:00.630Z
+status: up
+code: 411
+responseTime: 665
+lastUpdated: 2022-04-03T12:59:53.757Z
 startTime: Sat Feb 12 2022 16:02:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
