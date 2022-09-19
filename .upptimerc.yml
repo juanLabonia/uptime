@@ -18,6 +18,10 @@ sites:
       - 411
   - name: C.P.G.S.M.
     url: http://cpgsm.101si.com.ar:8001
+  
+  - name: AIT
+    url: 45.232.164.215
+    check: tcp-ping
 
 assigness:
   - juanLabonia
