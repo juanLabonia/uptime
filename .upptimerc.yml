@@ -20,8 +20,7 @@ sites:
     url: http://cpgsm.101si.com.ar:8001
   
   - name: AIT
-    url: 45.232.164.215
-    check: tcp-ping
+    url: https://45.232.164.238:4434/
 
 assigness:
   - juanLabonia
