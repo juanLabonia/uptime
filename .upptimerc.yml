@@ -18,9 +18,6 @@ sites:
       - 411
   - name: C.P.G.S.M.
     url: http://cpgsm.101si.com.ar:8001
-  
-  - name: AIT
-    url: https://45.232.164.238:4434
 
 assigness:
   - juanLabonia
