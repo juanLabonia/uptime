@@ -6,7 +6,7 @@
     "slug": "nodo",
     "status": "up",
     "uptime": "85.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.60%",
@@ -16,6 +16,7 @@
     "timeMonth": 418,
     "timeYear": 687,
     "dailyMinutesDown": {
+      "2023-05-30": 0,
       "2023-04-21": 787,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
