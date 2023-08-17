@@ -1,7 +1,7 @@
 url: https://www.edgar.com.ar/
-status: down
-code: 500
-responseTime: 147
-lastUpdated: 2023-08-17T10:28:42.684Z
+status: up
+code: 200
+responseTime: 1563
+lastUpdated: 2023-08-17T10:36:42.125Z
 startTime: Mon Feb 14 2022 12:42:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
