@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "nodo",
     "status": "down",
-    "uptime": "56.47%",
+    "uptime": "56.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2024-12-07": 51,
+      "2024-12-08": 56,
+      "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
@@ -327,8 +328,7 @@
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
-      "2023-12-10": 1440,
-      "2023-12-09": 1440
+      "2023-12-10": 1440
     }
   },
   {
@@ -341,12 +341,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.06%",
-    "time": 4398,
-    "timeDay": 1403,
-    "timeWeek": 1255,
-    "timeMonth": 1727,
-    "timeYear": 3546,
+    "uptimeYear": "98.12%",
+    "time": 4389,
+    "timeDay": 1240,
+    "timeWeek": 1248,
+    "timeMonth": 1721,
+    "timeYear": 3557,
     "dailyMinutesDown": {
       "2024-11-01": 103,
       "2024-10-31": 67,
@@ -356,8 +356,7 @@
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
-      "2023-12-10": 1440,
-      "2023-12-09": 1440
+      "2023-12-10": 1440
     }
   },
   {
@@ -370,12 +369,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.05%",
-    "time": 2059,
-    "timeDay": 803,
-    "timeWeek": 862,
-    "timeMonth": 945,
-    "timeYear": 1625,
+    "uptimeYear": "98.12%",
+    "time": 2057,
+    "timeDay": 778,
+    "timeWeek": 856,
+    "timeMonth": 936,
+    "timeYear": 1629,
     "dailyMinutesDown": {
       "2024-11-01": 103,
       "2024-10-31": 44,
@@ -386,8 +385,7 @@
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
-      "2023-12-10": 1440,
-      "2023-12-09": 1440
+      "2023-12-10": 1440
     }
   },
   {
@@ -402,10 +400,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1260,
-    "timeDay": 1044,
-    "timeWeek": 1094,
+    "timeDay": 1100,
+    "timeWeek": 1100,
     "timeMonth": 1223,
-    "timeYear": 1296,
+    "timeYear": 1295,
     "dailyMinutesDown": {
       "2024-11-06": 115,
       "2024-11-05": 32,
@@ -440,9 +438,9 @@
     "uptimeMonth": "98.44%",
     "uptimeYear": "99.58%",
     "time": 746,
-    "timeDay": 654,
-    "timeWeek": 679,
-    "timeMonth": 744,
+    "timeDay": 687,
+    "timeWeek": 691,
+    "timeMonth": 749,
     "timeYear": 797,
     "dailyMinutesDown": {
       "2024-12-04": 685,
@@ -460,18 +458,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cpgsm.101si.com.ar.ico",
     "slug": "c-p-g-s-m",
     "status": "down",
-    "uptime": "73.17%",
+    "uptime": "73.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "24.88%",
-    "time": 544,
+    "uptimeYear": "24.60%",
+    "time": 543,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 546,
+    "timeYear": 544,
     "dailyMinutesDown": {
-      "2024-12-07": 51,
+      "2024-12-08": 56,
+      "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
