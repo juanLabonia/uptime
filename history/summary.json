@@ -8,7 +8,7 @@
     "uptime": "50.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "15.05%",
     "time": 315,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2025-03-29": 1432,
+      "2025-03-30": 56,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -327,8 +328,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -345,7 +345,7 @@
     "time": 3723,
     "timeDay": 1765,
     "timeWeek": 1909,
-    "timeMonth": 2131,
+    "timeMonth": 2119,
     "timeYear": 2972,
     "dailyMinutesDown": {
       "2025-03-14": 17,
@@ -373,14 +373,14 @@
     "slug": "edgar",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "94.35%",
+    "uptimeDay": "98.71%",
     "uptimeWeek": "98.25%",
-    "uptimeMonth": "95.19%",
+    "uptimeMonth": "95.15%",
     "uptimeYear": "99.52%",
     "time": 1530,
-    "timeDay": 769,
+    "timeDay": 637,
     "timeWeek": 1755,
-    "timeMonth": 1228,
+    "timeMonth": 1223,
     "timeYear": 1216,
     "dailyMinutesDown": {
       "2025-03-29": 74,
@@ -427,12 +427,12 @@
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.62%",
     "time": 1265,
     "timeDay": 1031,
     "timeWeek": 1190,
-    "timeMonth": 1226,
+    "timeMonth": 1219,
     "timeYear": 1282,
     "dailyMinutesDown": {
       "2025-02-28": 74,
@@ -474,7 +474,7 @@
     "time": 775,
     "timeDay": 625,
     "timeWeek": 631,
-    "timeMonth": 680,
+    "timeMonth": 678,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2025-03-18": 80,
@@ -495,7 +495,7 @@
     "uptime": "65.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 547,
     "timeDay": 0,
@@ -503,7 +503,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 1432,
+      "2025-03-30": 56,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -866,8 +867,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   }
 ]
