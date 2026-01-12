@@ -1,7 +1,7 @@
 url: https://cot.arba.gov.ar/TransporteBienes/SeguridadCliente/presentarRemitos.do
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-12T16:46:01.612Z
+status: up
+code: 200
+responseTime: 1166
+lastUpdated: 2026-01-12T17:33:30.607Z
 startTime: 2022-02-11T20:39:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
